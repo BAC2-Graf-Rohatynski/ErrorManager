@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ErrorManager" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70d64ee5-e6fb-477e-a2d2-ad925177885a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/EnumStorage.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/EnumStorage.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/SendMessage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/SendMessage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/errormanager/message/MessageObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/errormanager/message/MessageObject.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/errormanager/socket/ErrorSocketHandler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/errormanager/socket/ErrorSocketHandler.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/MessageStorage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/MessageStorage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/interfaces/IMessageStorage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/interfaces/IMessageStorage.kt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ErrorManager$errormanager_MainKt.ic" NAME="errormanager.MainKt Coverage Results" MODIFIED="1549489718503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ErrorManager" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ErrorManager" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ErrorManager" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/MessageHandler.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/SendMessage.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/MessageStorage.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/interfaces/IMessageStorage.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/DeleteMessage.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+              <folding>
+                <element signature="e#37#434#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Starting Error Manager</find>
+      <find>Starting server on port</find>
+      <find>test</find>
+      <find>OverSocket</find>
+      <find>@Test</find>
+      <find>!!</find>
+      <find>printWriter != null</find>
+      <find>repla</find>
+      <find>ErrorMessage</find>
+      <find>BasicConfigurator</find>
+      <find>TODO</find>
+      <find>todo</find>
+      <find>Data</find>
+      <find>getRequestBody</find>
+      <find>ErrorManagerResponse</find>
+      <find>Success</find>
+      <find>getCode()</find>
+      <find>deleteMessageItem</find>
+      <find>sendMessageItem</find>
+      <find>, header = header)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@Test(timeout = 60_000)</replace>
+      <replace>::printWriter.isInitialized</replace>
+      <replace>getResponseBody</replace>
+      <replace>message = message</replace>
+      <replace>ErrorManagerApi</replace>
+      <replace>ApiSuccess</replace>
+      <replace>code</replace>
+      <replace>item</replace>
+      <replace>).run()</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/driver/Driver.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/driver/DisplaySocket.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/json/interfaces/IJson.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/json/Json.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/message/Message.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/interfaces/IHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/properties/interfaces/IErrorMessages.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/interfaces/IStorage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/Handler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/Main.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/properties/Messages.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/properties/MessageProperties.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/properties/PortProperties.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/properties/interfaces/IMasterProperties.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/properties/MasterProperties.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/interfaces/IClients.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/message/MessageTypeLevel.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/Clients.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/Storage.kt" />
+        <option value="$PROJECT_DIR$/src/main/resources/update.properties" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/UpdateInformation.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/ErrorManagerRunner.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/Storage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/interfaces/IStorage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/ErrorMessageStorage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/WarningMessageStorage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/InfoMessageStorage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/socket/interfaces/IErrorSocket.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/clients/Clients.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/language/LanguageHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/language/interfaces/ILanguageHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/interfaces/IMessageHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/interfaces/ICommandHandlerAction.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/GetAllMessages.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/DeleteAllMessages.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/DeleteMessage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/SetLanguage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/display/interfaces/IDisplaySocket.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/socket/ErrorSocket.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/display/DisplaySocket.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/MessageHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/clients/interfaces/IClients.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/display/DisplaySocketHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/display/interfaces/IDisplaySocketHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/socket/interfaces/IErrorSocketHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/socket/ErrorSocketHandler.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/message/MessageObject.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/MessageStorage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/interfaces/IMessageStorage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/SendMessage.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="errormanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="errormanager" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="errormanager" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+              <item name="action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="errormanager" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="errormanager" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+              <item name="messages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErrorManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErrorManager" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563905048207" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mgraf\IdeaProjects\NLC\ErrorManager\src\main\resources\messages" />
+      <recent name="C:\Users\mgraf\IdeaProjects\NLC\ErrorManager\src\main\resources\ports" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="errormanager.storage.clients.interfaces" />
+      <recent name="errormanager.storage.messages" />
+      <recent name="errormanager.storage.clients" />
+      <recent name="errormanager.storage.interfaces" />
+      <recent name="errormanager.storage" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="errormanager.handler.action" />
+      <recent name="errormanager" />
+      <recent name="errormanager.properties.interfaces" />
+      <recent name="errormanager.properties" />
+      <recent name="errormanager.display.interfaces" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mgraf\IdeaProjects\NLC\ErrorManager\libs" />
+      <recent name="C:\Users\mgraf\IdeaProjects\NLC\ErrorManager\src\main\resources\update" />
+      <recent name="C:\Users\mgraf\IdeaProjects\NLC\ErrorManager\src\main\resources" />
+      <recent name="C:\Users\graf\IdeaProjects\ErrorManager\libs" />
+      <recent name="C:\Users\graf\IdeaProjects\ErrorManager\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.ErrorManager [jar]">
+    <configuration name="ErrorManager [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="errormanager.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ErrorManager_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="errormanager.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ErrorManager [jar]" />
+        <item itemvalue="Kotlin.errormanager.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70d64ee5-e6fb-477e-a2d2-ad925177885a" name="Default Changelist" comment="" />
+      <created>1549470728263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549470728263</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1549470758140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549470758140</updated>
+    </task>
+    <task id="LOCAL-00002" summary="logger for running in IDE fixed">
+      <created>1549490663147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549490663147</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bugfixing">
+      <created>1549818953987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549818953987</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Buffer reader stops and kicks client at system error">
+      <created>1549840119324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549840119324</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Javadoc added">
+      <created>1549907295951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549907295951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Gradle build updated">
+      <created>1549907610624</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549907610624</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Bugfixing">
+      <created>1549907673518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1549907673518</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Javadoc Bugfixing">
+      <created>1549908141813</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1549908141813</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Refactoring">
+      <created>1552077027193</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552077027193</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Interface implementation">
+      <created>1553100240117</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553100240117</updated>
+    </task>
+    <task id="LOCAL-00011" summary="JUnit tests added">
+      <created>1553188108006</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1553188108006</updated>
+    </task>
+    <task id="LOCAL-00012" summary="JUnit tests removed">
+      <created>1560262067637</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1560262067637</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Refactoring finished">
+      <created>1560358963854</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560358963854</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Refactoring to add as JAR to backend application">
+      <created>1560369650711</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1560369650711</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Properties refactored">
+      <created>1560371234806</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560371234806</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refactoring">
+      <created>1560533447635</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1560533447635</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Runner added">
+      <created>1560720761415</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1560720761415</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Refactoring">
+      <created>1560980583039</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1560980583039</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Bugfixing">
+      <created>1561237801906</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1561237801906</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Refactoring finished">
+      <created>1561486215543</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1561486215543</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Bugfixing">
+      <created>1561491156710</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1561491156710</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Refactoring - started and finished">
+      <created>1563904983161</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1563904983161</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SocketTest_sendErrorMessagesOverSocket - 2019.03.21 at 10h 05m 35s.xml">
+      <configuration name="SocketTest.sendErrorMessagesOverSocket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SocketTest - 2019.03.21 at 10h 06m 06s.xml">
+      <configuration name="SocketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorManagerTest - 2019.03.21 at 10h 08m 00s.xml">
+      <configuration name="ErrorManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorManagerTest - 2019.03.21 at 10h 08m 26s.xml">
+      <configuration name="ErrorManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorManagerTest - 2019.03.21 at 10h 09m 31s.xml">
+      <configuration name="ErrorManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorManagerTest - 2019.03.21 at 10h 11m 02s.xml">
+      <configuration name="ErrorManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorManagerTest - 2019.03.21 at 10h 11m 34s.xml">
+      <configuration name="ErrorManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorManagerTest - 2019.03.21 at 10h 12m 01s.xml">
+      <configuration name="ErrorManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorManagerTest - 2019.03.21 at 12h 38m 07s.xml">
+      <configuration name="ErrorManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ErrorManagerTest - 2019.03.21 at 18h 05m 19s.xml">
+      <configuration name="ErrorManagerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20149253" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32981783" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.37703142" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33188722" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005208" side_tool="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5010593" side_tool="true" visible="true" weight="0.09947917" />
+      <window_info anchor="right" id="Gradle" order="9" sideWeight="0.49894068" weight="0.20309168" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123667374" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32981783" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.3109426" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33188722" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005208" side_tool="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5010593" side_tool="true" visible="true" weight="0.09947917" />
+      <window_info anchor="right" id="Gradle" order="9" sideWeight="0.49894068" visible="true" weight="0.20309168" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <MESSAGE value="logger for running in IDE fixed" />
+    <MESSAGE value="Buffer reader stops and kicks client at system error" />
+    <MESSAGE value="Javadoc added" />
+    <MESSAGE value="Gradle build updated" />
+    <MESSAGE value="Javadoc Bugfixing" />
+    <MESSAGE value="Interface implementation" />
+    <MESSAGE value="JUnit tests added" />
+    <MESSAGE value="JUnit tests removed" />
+    <MESSAGE value="Refactoring to add as JAR to backend application" />
+    <MESSAGE value="Properties refactored" />
+    <MESSAGE value="Runner added" />
+    <MESSAGE value="Refactoring" />
+    <MESSAGE value="Refactoring finished" />
+    <MESSAGE value="Bugfixing" />
+    <MESSAGE value="Refactoring - started and finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring - started and finished" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/test/ErrorManagerTest.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/properties/interfaces/IPortProperties.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/message/enums/MessageType.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/messages/messages.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/json/interfaces/IJson.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/json/Json.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/properties/interfaces/IMessageProperties.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/properties/PortProperties.kt" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="207" column="11" selection-start-line="207" selection-start-column="11" selection-end-line="207" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ports/ports.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/master/master.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/properties/MasterProperties.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/properties/interfaces/IMasterProperties.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/properties/MessageProperties.kt" />
+    <entry file="jar://$PROJECT_DIR$/libs/NotificationManager.jar!/at/nlc/notificationmanager/enums/error/MessageType.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/update/update.properties" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_201/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="387" column="18" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/ErrorManagerRunner.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#22#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/update.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/UpdateInformation.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/ErrorMessageStorage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/WarningMessageStorage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/socket/interfaces/IErrorSocket.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/language/LanguageHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#31#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/language/interfaces/ILanguageHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/interfaces/IMessageHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#41#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/interfaces/ICommandHandlerAction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/GetAllMessages.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#37#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/DeleteAllMessages.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#37#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/SetLanguage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/display/interfaces/IDisplaySocket.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/display/DisplaySocket.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+          <folding>
+            <element signature="e#30#588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/storage/clients/interfaces/IClients.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/display/DisplaySocketHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#30#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/display/interfaces/IDisplaySocketHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/message/MessageTypeLevel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="e#30#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/socket/interfaces/IErrorSocketHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/storage/clients/Clients.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#38#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/socket/ErrorSocket.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#29#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/socket/ErrorSocketHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/message/MessageObject.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#30#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/MessageHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/InfoMessageStorage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/DeleteMessage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#37#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/MessageStorage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/storage/messages/interfaces/IMessageStorage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/errormanager/handler/action/SendMessage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ErrorManager</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ErrorManager_main|ErrorManager</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: commons-io:commons-io:2.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
